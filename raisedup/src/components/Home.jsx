@@ -170,7 +170,7 @@ const EduFlowPlatform = () => {
               <BookOpen className="text-white" size={24} />
             </div>
             <span className="text-2xl font-bold bg-linear-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              RaisEdUp
+              RaisEDUp
             </span>
           </div>
           
