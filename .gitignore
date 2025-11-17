@@ -1,6 +1,7 @@
 ### Dependency Directories ###
 # Node.js dependencies (applies to both frontend and backend)
 node_modules
+package-lock.json
 # Yarn/pnpm files
 .yarn
 .pnpm-store
